@@ -24,3 +24,9 @@ input {
   height: 50px;
   line-height: 50px;
 }
+h1{
+  text-align:center;
+}
+body{
+  background-color:#f2eeef;
+}
